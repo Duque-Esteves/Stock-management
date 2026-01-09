@@ -2,7 +2,8 @@ import os
 
 stock = [{"name":"tenis", "type":"calcado", "quantity":"10"},
          {"name":"camiseta", "type":"roupa", "quantity":"20"},
-         {"name":"bone", "type":"acessorio", "quantity":"15"}]
+         {"name":"bone", "type":"acessorio", "quantity":"15"},
+         {"name":"bermuda", "type":"roupa", "quantity":"5"}]
 
 def createItem ():
     print("Create new item:\n")
